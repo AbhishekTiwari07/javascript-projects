@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+    box-sizing:border-box;
+}
+
+.container{
+    background-color: white;
+    margin: 200px auto;
+    width:400px;
+    padding:0;
+}
+.content{
+    padding:20px;
+}
+#input{
+    font-size: 25px;
+    width:85%;
+    height:30px;
+}
+button{
+    padding: 0;
+    margin:0;
+    font-size: 20px;
+}
+ul{
+    padding:0;
+    list-style-type: none;
+}
+li{
+    font-size:200%;
+    margin:15px 0;
+    cursor:pointer;
+}
+.completed{
+    color:gray;
+    text-decoration: line-through;
+}
