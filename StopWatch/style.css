@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width:500px;
+    margin: 200px auto;
+    border:2px solid pink;
+    box-sizing: border-box;
+}
+h1{
+    color:pink;
+    margin:50px 0 20px 0;
+    text-align: center;
+    font-size: 400%;
+}
+.buttons{
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+
+#start,#stop,#reset{
+    width:100px;
+    margin:20px auto;
+}
+
+button{
+    width:100px;
+    font-size: 150%;
+    background-color: black;
+    color:pink;
+}
+button:hover{
+    background-color: white;
+}
+#time{
+    color:pink;
+    width:100%;
+    heigth:100px;
+    font-size:175%;
+    text-align: center;
+}
+#music{
+    display:none;
+}
