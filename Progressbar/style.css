@@ -1,0 +1,15 @@
+.bar{
+    width:200px;
+    margin:300px auto;
+}
+.container{
+    width:200px;
+    height:20px;
+    border:1px solid black;
+    margin:auto auto;
+}
+#run{
+    width:0px;
+    height:20px;
+    background-color: red;
+}
