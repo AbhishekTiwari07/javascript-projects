@@ -4,7 +4,7 @@
     width:500px;
     margin:200px auto;
     display:grid;
-    grid-template-columns: auto auto auto auto;
+    /* grid-template-columns: auto auto auto auto; */
 }
 .key{
     border: 1px black solid;
