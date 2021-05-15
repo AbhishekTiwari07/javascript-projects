@@ -1,4 +1,4 @@
-# javascript-projects
+# JavaScript Projects
 
 ## Quiz App
 <div>
